@@ -1,0 +1,8 @@
+{
+  "networkingCoordinator": {
+    "node": {
+      "url": "https://node4.devnet1.chromia.dev:7740",
+      "brid": "3EAE84583E8C929489F8CC0919495D6221AA48C3B81901057BCB294152F910D3"
+    }
+  }
+}
