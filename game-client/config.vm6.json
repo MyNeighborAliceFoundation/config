@@ -1,5 +1,8 @@
 {
   "blockchain": {
     "urls": ["https://postchain-vm6.myneighboralice.com/"]
+  },
+  "marketplace": {
+    "url": ""
   }
 }

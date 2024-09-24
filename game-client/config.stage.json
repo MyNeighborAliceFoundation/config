@@ -9,5 +9,9 @@
     "urls": ["https://postchain-stage.myneighboralice.com/"],
     "blockchainRid": null,
     "chainId": 0
+  },
+  "marketplace": {
+    "url": "https://mkpl-api.staging.myneighboralice.com/api/",
+    "translationUrl": "https://mkpl-s-trans.internal.myneighboralice.com/v1/translate"
   }
 }
