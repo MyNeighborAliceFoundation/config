@@ -1,7 +1,7 @@
 {
   "networkingCoordinator": {
     "node": {
-      "url": "https://dapps0.chromaway.com:7740",
+      "url": "https://postchain-p-node0.myneighboralice.com",
       "brid": "3E07D1AA7EB634BF6207B9F60DA0990C098027E0B7F9227F62ED28E35C9DD5D2"
     }
   },
