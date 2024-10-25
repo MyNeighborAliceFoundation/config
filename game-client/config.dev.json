@@ -9,7 +9,7 @@
     "urls": [
       "https://postchain-dev.myneighboralice.com/"
     ],
-    "blockchainRid": "1ADF5D13CEDDDA73CE904240FA26086008A3F857F553C96B1F7AC36504F86EA9",
+    "blockchainRid": null,
     "chainId": 0
   },
   "marketplace": {
