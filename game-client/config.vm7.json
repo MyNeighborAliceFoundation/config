@@ -1,6 +1,14 @@
 {
+  "networkingCoordinator": {
+    "node": {
+      "url": "https://postchain-p-node0.myneighboralice.com",
+      "brid": "3E07D1AA7EB634BF6207B9F60DA0990C098027E0B7F9227F62ED28E35C9DD5D2"
+    }
+  },
   "blockchain": {
-    "urls": ["https://postchain-vm7.myneighboralice.com/"]
+    "urls": ["https://postchain-vm7.myneighboralice.com/"],
+    "blockchainRid": null,
+    "chainId": 0
   },
   "marketplace": {
     "url": ""
