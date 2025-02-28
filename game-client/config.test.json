@@ -11,7 +11,7 @@
     "chainId": 0
   },
   "marketplace": {
-    "url": "",
+    "url": "https://mkpl-api.test.myneighboralice.com/api/",
     "translationUrl": "https://translation.internal.myneighboralice.com/v1/translate"
   }
 }
