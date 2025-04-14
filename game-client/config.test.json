@@ -7,7 +7,7 @@
   },
   "blockchain": {
     "urls": ["https://postchain-test.myneighboralice.com/"],
-    "blockchainRid": null,
+    "blockchainRid": "",
     "chainId": 0
   },
   "marketplace": {
