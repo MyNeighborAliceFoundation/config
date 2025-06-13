@@ -15,8 +15,8 @@
       "https://postchain-p-node5.myneighboralice.com",
       "https://postchain-p-node6.myneighboralice.com"
     ],
-    "blockchainRid": "8BC5E4DAA94410BEC640DAEE87CE5C546465C2E7E8D654668BA6267200C97560",
-    "chainId": 101
+    "blockchainRid": "F31D7A38B33D12A5D948EE9CF170983A7CA5EFFFAAA31094C5B9CF94442D9FA2",
+    "chainId": 159
   },
   "marketplace": {
     "url": "https://mkpl-api.prod.myneighboralice.com/api/",
