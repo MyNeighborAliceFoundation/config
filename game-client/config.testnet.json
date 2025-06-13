@@ -11,8 +11,8 @@
       "https://node1.testnet.chromia.com:7740",
       "https://node3.testnet.chromia.com:7740"
     ],
-    "blockchainRid": "A4AD27B3EFE5AD4B14F30EBA4F58D132779ADE17FAF910A84C197C06E0741F0A",
-    "chainId": 0
+    "blockchainRid": "F28F1F618DE021A1701345B47D3DABF81661556EBEA3CFE62E2EC18EBDF44070",
+    "chainId": 519
   },
   "marketplace": {
     "url": "https://mkpl-api-testnet.myneighboralice.com/api/",
