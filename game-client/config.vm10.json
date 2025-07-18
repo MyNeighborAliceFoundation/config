@@ -1,4 +1,5 @@
 {
+  "environment": "VM10",
     "networkingCoordinator": {
       "node": {
         "url": "https://postchain-p-node0.myneighboralice.com",
