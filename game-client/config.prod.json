@@ -8,13 +8,13 @@
   },
   "blockchain": {
     "urls": [
-      "https://postchain-p-node0.myneighboralice.com",
-      "https://postchain-p-node1.myneighboralice.com",
-      "https://postchain-p-node2.myneighboralice.com",
-      "https://postchain-p-node3.myneighboralice.com",
-      "https://postchain-p-node4.myneighboralice.com",
-      "https://postchain-p-node5.myneighboralice.com",
-      "https://postchain-p-node6.myneighboralice.com"
+      "https://dapps0.chromaway.com",
+      "https://chromia-mainnet.w3coins.io:7740",
+      "https://mainnet-dapp1.sunube.net:7740",
+      "https://chromia.01node.com:7740",
+      "https://chromia-mainnet.caliber.build:443",
+      "https://chromia.nocturnallabs.org:7740",
+      "https://chromina-node.stablelab.xyz:7740"
     ],
     "blockchainRid": "F31D7A38B33D12A5D948EE9CF170983A7CA5EFFFAAA31094C5B9CF94442D9FA2",
     "chainId": 159
