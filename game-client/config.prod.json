@@ -8,7 +8,8 @@
   },
   "blockchain": {
     "urls": [
-      "https://mainnet-dapp1.sunube.net:7740",
+      "https://dapps0.chromaway.com",
+      "https://chromia-mainnet.w3coins.io:7740",
       "https://chromina-node.stablelab.xyz:7740"
     ],
     "blockchainRid": "F31D7A38B33D12A5D948EE9CF170983A7CA5EFFFAAA31094C5B9CF94442D9FA2",
