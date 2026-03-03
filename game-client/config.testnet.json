@@ -9,8 +9,7 @@
   "blockchain": {
     "urls": [
       "https://node0.testnet.chromia.com:7740",
-      "https://node1.testnet.chromia.com:7740",
-      "https://node3.testnet.chromia.com:7740"
+      "https://node1.testnet.chromia.com:7740"
     ],
     "blockchainRid": "F28F1F618DE021A1701345B47D3DABF81661556EBEA3CFE62E2EC18EBDF44070",
     "chainId": 519
