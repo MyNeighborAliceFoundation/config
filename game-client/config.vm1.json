@@ -13,5 +13,8 @@
   },
   "marketplace": {
     "url": ""
+  },
+  "timeSync": {
+    "url": "https://timeapi.io/api/Time/current/zone?timeZone=UTC"
   }
 }

@@ -14,7 +14,10 @@
     "chainId": 0
   },
   "marketplace": {
-    "url": "https://mkpl-api.dev.myneighboralice.com/api/",
+    "url": "",
     "translationUrl": "https://translation.internal.myneighboralice.com/v1/translate"
+  },
+  "timeSync": {
+    "url": "https://timeapi.io/api/Time/current/zone?timeZone=UTC"
   }
 }
