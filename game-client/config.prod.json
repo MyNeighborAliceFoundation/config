@@ -23,6 +23,6 @@
     "translationUrl": "https://mkpl-p-trans.myneighboralice.com/v1/translate"
   },
   "timeSync": {
-    "url": "https://timeapi.io/api/Time/current/zone?timeZone=UTC"
+    "url": ""
   }
 }
